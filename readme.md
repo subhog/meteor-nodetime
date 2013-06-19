@@ -2,7 +2,9 @@
 Nodetime
 ========
 
-Nodetime package for Meteor.js
+Performance profiler and monitor.
+
+Package wrapper for Meteor.js
 
 [Nodetime website](http://nodetime.com/)
 
