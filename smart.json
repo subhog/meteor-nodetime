@@ -3,7 +3,7 @@
   "description": "Nodetime package for Meteor",
   "homepage": "https://github.com/subhog/meteor-nodetime",
   "author": "Hubert Orlik-Grzesik <hubert@orlikarnia.com>",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "git": "https://github.com/subhog/meteor-nodetime.git",
   "packages": {}
 }
